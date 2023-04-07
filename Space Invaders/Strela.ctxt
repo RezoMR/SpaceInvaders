@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Strela
+comment0.text=\r\n\ Trieda\ {@code\ Strelec}\ sl\u00FA\u017Ei\ na\ \u00ABStrela,\ let\u00ED,\ ni\u010D\u00ED\ nepriate\u013Eov\u00BB\u2026\r\n\r\n\ @author\ \ \ \u00ABMat\u00FA\u0161\ Reme\u0148\u00BB\r\n\ @version\ \ \u00AB1.0\ BlueJ\u00BB\r\n
+comment1.params=
+comment1.target=Strela()
+comment1.text=\ @const\r\n\ Kon\u0161truktor\ objektov\ triedy\ Strelec.\r\n\ Vytvor\u00ED\ strelu,\ dosad\u00ED\ jej\ obr\u00E1zok.\r\n\ Vytvor\u00ED\ mana\u017E\u00E9ra,\ a\ ten\ n\u00E1sledne\ spravuje\ pohyb\ strely.\r\n
+comment2.params=
+comment2.target=void\ znicVybuch()
+comment2.text=\ @method\r\n\ Skryje\ strelu\ z\ pl\u00E1tna.(Zni\u010D\u00ED\ ju\ a\ ukon\u010D\u00ED\ jej\ pohyb.)\r\n\ \r\n
+comment3.params=
+comment3.target=void\ tik()
+comment3.text=\ @method\r\n\ \ Zabezpe\u010Duje\ pohyb\ strely.\r\n
+comment4.params=
+comment4.target=int\ vratX()
+comment4.text=\ @method\r\n\ \ @return\ Vracia\ X\ hodnotu\ lav\u00E9ho\ horn\u00E9ho\ rohu\ strely.\r\n\ \r\n
+comment5.params=
+comment5.target=int\ vratY()
+comment5.text=\ @method\r\n\ \ @return\ Vracia\ Y\ hodnotu\ lav\u00E9ho\ horn\u00E9ho\ rohu\ strely.\r\n\ \r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Manazer
+comment0.text=\r\n\ Automaticky\ posiela\ spravy\ danym\ objektom\:<br\ />\r\n\ posunVlavo()\ -\ pri\ stlacen\ klavesy\ A<br\ />\r\n\ posunVpravo()\ -\ pri\ stlaceni\ klavesy\ D<br\ />\r\n\ strel()\ -\ pri\ stlaceni\ klavesy\ SPACE<br\ />\r\n\ zrus()\ -\ pri\ stlaceni\ klavesy\ ESC<br\ />\r\n\ tik()\ -\ kazdych\ 0,25\ sekundy<br\ />\r\n\ vyberSuradnice(x,\ y)\ -\ pri\ kliknuti\ mysou\r\n
+comment1.params=paSelektor
+comment1.target=void\ posliSpravu(java.lang.String)
+comment2.params=paSelektor\ paPrvyParameter\ paDruhyParameter
+comment2.target=void\ posliSpravu(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=Manazer()
+comment3.text=\r\n\ Vytvori\ novy\ manazer,\ ktory\ nespravuje\ zatial\ ziadne\ objekty.\r\n
+comment4.params=paObjekt
+comment4.target=void\ spravujObjekt(java.lang.Object)
+comment4.text=\r\n\ Manazer\ bude\ spravovat\ dany\ objekt.\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Nepriatelia
+comment0.text=\r\n\ Trieda\ {@code\ Nepriatelia}\ sl\u00FA\u017Ei\ na\ \u00ABVytvorenie\ nepriate\u013Eov,\ ich\ pohyb,\ po\ konci\ hry\ vyhodnot\u00ED\ v\u00FDsledok\ a\ spo\u010D\u00EDta\ dosiahnut\u00E9\ sk\u00F3re\u00BB\u2026\r\n\r\n\ @author\ \ \ \u00ABMat\u00FA\u0161\ Reme\u0148\u00BB\r\n\ @version\ \ \u00AB1.0\ BlueJ\u00BB\r\n
+comment1.params=
+comment1.target=Nepriatelia()
+comment1.text=\ @constr\r\n\ Kon\u0161truktor\ objektu\ Nepriatelia\ vytvor\u00ED\ nepriate\u013Eov,\ \r\n\ na\u010D\u00EDta\ im\ prisl\u00FAchaj\u00FAci\ obr\u00E1zok,\ ur\u010D\u00ED\ im\ polohu,\r\n\ vykresl\u00ED\ ich\ a\ po\u0161le\ im\ spr\u00E1vu\ na\ pohyb.\r\n
+comment2.params=
+comment2.target=Nepriatelia\ dajInstanciu()
+comment2.text=\ @method\r\n\ \ @return\ Vr\u00E1ti\ in\u0161tanciu\ aplik\u00E1cii\r\n
+comment3.params=strela
+comment3.target=boolean\ stretliSa(Strela)
+comment3.text=\ @method\r\n\ Met\u00F3da\ stretli\ sa\ overuje\ \u010Di\ sa\ strela\ \r\n\ stretla\ pri\ svojom\ lete\ s\ niektor\u00FDm\ s\ nepriate\u013Eov.\r\n\ N\u00E1vratov\u00E1\ hodnota\ je\ boolean.\r\n\ @return\ boolean\ \u010Di\ sa\ stretli.\r\n\ @param\ strela,\ type\ Strela\r\n
+comment4.params=
+comment4.target=void\ pohyb()
+comment4.text=\ @method\r\n\ \ Met\u00F3da\ pohyb\ zabezpe\u010Duje\ pohyb\ nepriate\u013Eov.\ \r\n\ \ Ke\u010F\ sa\ nakonci\ skon\u010D\u00ED\ vyhodnot\u00ED\ a\ vyp\u00ED\u0161e\ do\ okna\ v\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ vyhodnotenie()
+comment5.text=\ @method\r\n\ \r\n\ \ Met\u00F3da\ vr\u00E1ti\ v\u00FDsledok\ hry\ a\ dosiahnute\ skore.\r\n\ \ @return\ String\ o\ v\u00FDsledku\ a\ sk\u00F3re\r\n
+numComments=6

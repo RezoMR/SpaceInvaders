@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Aplikacia
+comment0.text=\r\n\ Trieda\ {@code\ Aplik\u00E1cia}\ sl\u00FA\u017Ei\ na\ \u00ABOvl\u00E1danie\ celej\ hry,\ spustenie\ a\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ zapisovanie\ skore\u00BB\u2026\r\n\r\n\ @author\ \ \ \u00ABMat\u00FA\u0161\ Reme\u0148\u00BB\r\n\ @version\ \ \u00AB1.0\ BlueJ\ verzia\u00BB\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

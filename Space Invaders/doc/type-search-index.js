@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Aplikacia"},{"p":"<Unnamed>","l":"Manazer"},{"p":"<Unnamed>","l":"Nepriatelia"},{"p":"<Unnamed>","l":"Obrazok"},{"p":"<Unnamed>","l":"Platno"},{"p":"<Unnamed>","l":"Strela"},{"p":"<Unnamed>","l":"Strelec"}]
